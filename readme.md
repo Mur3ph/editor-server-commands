@@ -3,7 +3,7 @@
 
 ## Linux
 1. [Some Basic Linux Commands I Have Used During My Linux Journey – Part 1](https://www.unixmen.com/basic-linux-commands-used-linux-journey/)
-
+2. [How To Use ps, kill, and nice to Manage Processes in Linux](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux?utm_content=bufferd2197&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
 
@@ -40,6 +40,15 @@
 
 
 
+## Scripting
+1. [Bash]()
+2. [Python]()
+
+
+
 ## Books
 1. [Unix for Oracle DBAs Pocket Reference](https://www.amazon.com/Unix-Oracle-DBAs-Pocket-Reference-ebook/dp/B0026OR2VS/ref=sr_1_3?s=books&ie=UTF8&qid=1478778363&sr=1-3&keywords=Oracle+dba+scripts)	
+2. [Bash cookbook](http://shop.oreilly.com/product/9780596526788.do)
+3. [Linux cookbook](http://shop.oreilly.com/product/9780596006402.do)
+4. [Python cookbook](http://shop.oreilly.com/product/0636920027072.do)
 
