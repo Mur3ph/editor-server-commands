@@ -7,8 +7,6 @@
 
 
 
-
-
 ## Windows
 1. [Cheat Sheet for Windows Command Prompt](http://simplyadvanced.net/blog/cheat-sheet-for-windows-command-prompt/)
 
@@ -16,6 +14,8 @@
 
 ## cURL
 1. [cURL](https://curl.haxx.se/)
+2. [cURL Cheat Sheet](https://devhints.io/curl)
+3. [Everything cURL PDF](file:///C:/Users/pauly/Downloads/everything-curl.pdf)
 
 
 
@@ -23,3 +23,16 @@
 ## Vim
 1. [Vim Cheat Sheet (GITHUB)](https://github.com/hackjutsu/vim-cheatsheet)
 2. [Vim Cheat Sheet](https://vim.rtorr.com/)
+3. [Vim scripting cheatsheet](https://devhints.io/vimscript)
+
+
+
+## CRON
+1. [Cron cheatsheet](https://devhints.io/cron)
+2. [The Ultimate Crontab Cheat Sheet](https://www.codementor.io/akul08/the-ultimate-crontab-cheatsheet-5op0f7o4r)
+
+
+
+## Network
+1. [Mastering the OSI & TCP/IP Models](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
+2. [PacketLife - Networking Cheat Sheet](http://packetlife.net/library/cheat-sheets/)
