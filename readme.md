@@ -36,3 +36,10 @@
 ## Network
 1. [Mastering the OSI & TCP/IP Models](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 2. [PacketLife - Networking Cheat Sheet](http://packetlife.net/library/cheat-sheets/)
+3. [Network commands](https://blog.pandorafms.org/network-commands/)
+
+
+
+## Books
+1. [Unix for Oracle DBAs Pocket Reference](https://www.amazon.com/Unix-Oracle-DBAs-Pocket-Reference-ebook/dp/B0026OR2VS/ref=sr_1_3?s=books&ie=UTF8&qid=1478778363&sr=1-3&keywords=Oracle+dba+scripts)	
+
