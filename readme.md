@@ -36,15 +36,6 @@
 
 
 
-## Network
-1. [Mastering the OSI & TCP/IP Models](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
-2. [PacketLife - Networking Cheat Sheet](http://packetlife.net/library/cheat-sheets/)
-3. [Network commands](https://blog.pandorafms.org/network-commands/)
-4. [7 Best Tools for Network Administration](https://blogs.oracle.com/sql/entry/query_tuning_101_comparing_execution?utm_content=buffer88039&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-5. [Network commands](https://blog.pandorafms.org/network-commands/)
-
-
-
 ## Scripting
 1. [Bash for DBAs](https://amitzil.wordpress.com/2016/09/07/bash-for-dbas-part-1/)
  * [Bash scripting tutorial](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/?fromTwitterID=nixCraft)
