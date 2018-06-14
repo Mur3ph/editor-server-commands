@@ -1,9 +1,13 @@
 # editor-server-commands
 
 
+
 ## Linux
 1. [Some Basic Linux Commands I Have Used During My Linux Journey – Part 1](https://www.unixmen.com/basic-linux-commands-used-linux-journey/)
 2. [How To Use ps, kill, and nice to Manage Processes in Linux](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux?utm_content=bufferd2197&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+3. [Linux file system hierarchy](https://www.blackmoreops.com/2015/06/18/linux-file-system-hierarchy-v2-0/)
+4. [How To Use ps, kill, and nice to Manage Processes in Linux](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux?utm_content=bufferd2197&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+5. [Some Basic Linux Commands I Have Used During My Linux Journey – Part 1](http://www.unixmen.com/basic-linux-commands-used-linux-journey/)
 
 
 
@@ -16,7 +20,6 @@
 1. [cURL](https://curl.haxx.se/)
 2. [cURL Cheat Sheet](https://devhints.io/curl)
 3. [Everything cURL PDF](file:///C:/Users/pauly/Downloads/everything-curl.pdf)
-
 
 
 
@@ -37,11 +40,14 @@
 1. [Mastering the OSI & TCP/IP Models](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 2. [PacketLife - Networking Cheat Sheet](http://packetlife.net/library/cheat-sheets/)
 3. [Network commands](https://blog.pandorafms.org/network-commands/)
+4. [7 Best Tools for Network Administration](https://blogs.oracle.com/sql/entry/query_tuning_101_comparing_execution?utm_content=buffer88039&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+5. [Network commands](https://blog.pandorafms.org/network-commands/)
 
 
 
 ## Scripting
-1. [Bash]()
+1. [Bash for DBAs](https://amitzil.wordpress.com/2016/09/07/bash-for-dbas-part-1/)
+ * [Bash scripting tutorial](https://bluepenguinlist.com/2016/11/04/bash-scripting-tutorial/?fromTwitterID=nixCraft)
 2. [Python]()
 
 
@@ -51,4 +57,11 @@
 2. [Bash cookbook](http://shop.oreilly.com/product/9780596526788.do)
 3. [Linux cookbook](http://shop.oreilly.com/product/9780596006402.do)
 4. [Python cookbook](http://shop.oreilly.com/product/0636920027072.do)
+
+
+
+## Certification
+1. Red Hat Linux Server
+  * [Red Hat Certified Systems Administrator (RHCSA)](https://www.redhat.com/en/services/certification/rhcsa) 
+    * [Article List](http://www.tomsitpro.com/articles/linux-certifications,2-654-5.html)
 
